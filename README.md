@@ -1,16 +1,7 @@
 # flutter_application_uts
 
-A new Flutter project.
+Tugas Assesment Tengah Semester mata kuliah Pemograman Perangkat Bergerak
 
-## Getting Started
+## Deskripsi
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Proyek ini membuat aplikasi mobile sederhana yang terdapat form login yang terdiri dari nama dan email pada halaman pertama dan ketika di submit maka akan pindah ke halaman yang mengveriffikasi bahwa login telah berhasil.
